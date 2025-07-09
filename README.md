@@ -1,3 +1,12 @@
+## 추가 사항
+- 파일명 : `colab_demo_korean_250709.ipynb`
+ - 한국어 버전 추가 (코드 주석 추가 및 코드 정리)
+ - 예제 압축
+
+
+
+------
+
 # CatPred: A Comprehensive Framework for Deep Learning In Vitro Enzyme Kinetic Parameters
 
 [![DOI](https://img.shields.io/badge/DOI-10.1101/2024.03.10.584340-blue)](https://www.nature.com/articles/s41467-025-57215-9)
